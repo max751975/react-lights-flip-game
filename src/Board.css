@@ -1,0 +1,13 @@
+.Board-container {
+  margin: 5rem auto;
+  width: 50vw;
+  border: 5px double black;
+  border-radius: 10px;
+  box-shadow: 5px 5px 10px;
+  background: linear-gradient(0.25turn, #bad8e4, #ceeab9, #e3d0bc);
+}
+
+.Board {
+  margin: 0 auto;
+  padding: 2rem;
+}
